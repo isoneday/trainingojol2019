@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjectOjekOnline</string>
+    <string name="requireemail">Please enter email addres</string>
+    <string name="requirepassword">Please enter password</string>
+    <string name="minimumpassword">Password Too Short!!</string>
+    <string name="requirename">Please enter name</string>
+    <string name="register">REGISTER</string>
+    <string name="messageregister">please use email and password to register</string>
+    <string name="tittleregister">register</string>
+    <string name="requirephone">Please enter phone</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_detail_lokasi_driver">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_goride_activityk">Map</string>
+</resources>
