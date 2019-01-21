@@ -6,6 +6,7 @@
     <string name="requirename">Please enter name</string>
     <string name="register">REGISTER</string>
     <string name="messageregister">please use email and password to register</string>
+    <string name="messagelogin">please use email and password to login</string>
     <string name="tittleregister">register</string>
     <string name="requirephone">Please enter phone</string>
     <string name="title_activity_maps">Map</string>
