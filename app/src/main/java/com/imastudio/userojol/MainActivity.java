@@ -8,7 +8,7 @@ import android.view.View;
 import com.imastudio.userojol.activity.GoRideActivity;
 
 public class MainActivity extends AppCompatActivity {
-
+//maybe you can using kotlin for this code
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
